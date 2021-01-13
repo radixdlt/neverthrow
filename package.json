@@ -1,6 +1,6 @@
 {
   "name": "@radixdlt/neverthrow",
-  "version": "3.2.0",
+  "version": "3.2.1",
   "description": "Stop throwing errors, and instead return Results!",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/supermacro/neverthrow.git"
+    "url": "git+https://github.com/radixdlt/neverthrow.git"
   },
   "author": "Giorgio Delgado",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/supermacro/neverthrow/issues"
+    "url": "https://github.com/radixdlt/neverthrow/issues"
   },
-  "homepage": "https://github.com/supermacro/neverthrow#readme",
+  "homepage": "https://github.com/radixdlt/neverthrow#readme",
   "devDependencies": {
     "@babel/core": "7.12.10",
     "@babel/preset-env": "7.12.11",
